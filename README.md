@@ -46,3 +46,11 @@
 ---
 
 <p align="center">✨ Learning, Building, and Growing Every Day ✨</p>
+
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Preethi22-06/Preethi22-06/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
